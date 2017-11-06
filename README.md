@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+
+Hi aLl,
+
+
+I like software development . I like java and java releted technology.
